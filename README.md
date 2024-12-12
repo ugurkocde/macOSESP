@@ -1,6 +1,26 @@
-# macOS Enrollment Status Page (ESP)
+<h1 align="center">💻 macOS ESP - Automated Setup</h1>
+
+![macOSESP](/media/macOSESP.png)
 
 A customizable SwiftDialog-based Enrollment Status Page solution for macOS devices, providing a smooth onboarding experience for your users.
+
+## 🌟 Table of Contents
+
+- [🌟 Table of Contents](#-table-of-contents)
+- [🌟 Features](#-features)
+- [📋 Prerequisites](#-prerequisites)
+- [🛠 Configuration](#-configuration)
+  - [UI Customization](#ui-customization)
+    - [UI customization](#ui-customization-1)
+    - [ESP steps](#esp-steps)
+  - [Script Configuration](#script-configuration)
+- [📦 Building the Package](#-building-the-package)
+- [🚀 Deployment](#-deployment)
+  - [Pre-install script](#pre-install-script)
+  - [Post-install script](#post-install-script)
+- [📝 Logging](#-logging)
+- [🤝 Contributing](#-contributing)
+- [⚖️ License](#️-license)
 
 ## 🌟 Features
 
