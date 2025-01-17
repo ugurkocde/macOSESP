@@ -14,6 +14,27 @@
 
 ![macOSESP](/media/macOSESP.png)
 
+> ⚠️ **Preview Release Notice**
+>
+> The customizations of the UI and the ESP steps will be released soon.
+>
+> This project is currently in preview/beta phase. While it's functional, you may encounter bugs or incomplete features. We encourage you to:
+>
+> - Test and provide feedback
+> - Report any issues you find
+> - Suggest improvements
+> - Share your experience
+>
+> Your feedback will help improve this tool for everyone!
+
+> 🚀 **Quick Start Guide for the preview release**
+>
+> Follow these simple steps to get started:
+>
+> 1. 📥 Download the latest PKG file from [Releases](https://github.com/ugurkocde/macOSESP/releases/latest)
+> 2. 📱 Deploy the PKG to a test device through Microsoft Intune
+> 3. ⚡ The setup process will start automatically after installation
+
 A customizable SwiftDialog-based Enrollment Status Page solution for macOS devices, providing a smooth onboarding experience for your users.
 
 ## 🌟 Table of Contents
