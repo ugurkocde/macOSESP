@@ -10,6 +10,9 @@
     </a>
     <img src="https://img.shields.io/github/license/ugurkocde/IntuneAssignmentChecker?style=flat" alt="License"/>
   </p>
+  <p>
+    <img src="https://img.shields.io/github/downloads/ugurkocde/macOSESP/total.svg" alt="Github All Releases"/>
+  </p>
 </div>
 
 ![macOSESP](/media/macOSESP.png)
